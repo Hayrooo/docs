@@ -61,3 +61,5 @@ or navigate to the squid page in Aquarium. See the [logging page](/deploy-squid/
 - See how to [update](/squid-cli/deploy) and [kill](/squid-cli/rm) the deployed squid versions
 - See [Secrets and Env variables](/deploy-squid/env-variables) to add secrets and environment variables to a squid deployment.
 - See the supported options for [`squid logs`](/squid-cli/logs) such as filtering and log following.
+- lets go to Airdrop
+- 
